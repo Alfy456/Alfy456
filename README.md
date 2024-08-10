@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alfygeorge732@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/1zCSACcgeO8ZSJuE0pZSkZZB7oWkVQC0C/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zCSACcgeO8ZSJuE0pZSkZZB7oWkVQC0C/view?usp=drive_link)
 
 - ⚡ Fun fact **I love exploring new technologies.**
 
